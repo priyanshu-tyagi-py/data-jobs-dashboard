@@ -1,29 +1,29 @@
-# 🌍 Global Data Jobs Market Analysis Dashboard
+# Global Data Jobs Market Analysis Dashboard
 
-## 📊 Overview
+## Overview
 This Power BI dashboard analyzes global demand for data jobs, salary trends, and geographic distribution of job opportunities.
 
-## 🚀 Features
+## Features
 - Top data job roles by demand
 - Global job distribution map
 - Salary insights (median & average)
 - Interactive filtering by country
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI
 - DAX
 - Excel
 
-## 📈 Key Insights
+## Key Insights
 - Data Engineer is the most in-demand role
 - Job opportunities are concentrated in North America & Europe
 - Salaries vary significantly across countries
 
-## ⚠️ Note
+## Note:
 Dataset is not included due to GitHub size limitations.
 
 ## 🔄 Status
-🚧 Work in progress — more improvements coming
+Work in progress — more improvements coming
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](dashboard.png)
