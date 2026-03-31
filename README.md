@@ -24,7 +24,7 @@ This Power BI dashboard analyzes global demand for data jobs, salary trends, and
 Dataset is not included due to GitHub size limitations.
 
 ## 🔄 Status
-Work in progress — more improvements coming
+Work in progress — more improvements coming!
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
