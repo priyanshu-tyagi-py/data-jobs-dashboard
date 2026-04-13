@@ -1,4 +1,4 @@
-# Global Data Jobs Market Analysis Dashboard.
+# Global Data Jobs Market Analysis Dashboard!
 
 ## Overview
 This Power BI dashboard analyzes global demand for data jobs, salary trends, and geographic distribution of job opportunities.
